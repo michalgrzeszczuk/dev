@@ -1,0 +1,10 @@
+/* Minimal CSS Reset */
+
+html {
+  box-sizing: border-box;
+  font-size: 12px;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
